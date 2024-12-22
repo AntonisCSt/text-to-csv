@@ -1,0 +1,4 @@
+pydantic==1.10.9  # For data validation and configuration
+#pytest==7.4.2     # For testing
+#flake8==6.1.0     # For linting and style checking
+#mypy==1.5.1       # For type checking
